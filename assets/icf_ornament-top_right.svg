@@ -1,0 +1,10 @@
+<svg version="1.1" viewBox="0.0 0.0 960.0 540.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="top_right_ornament_clip">
+    <path d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z" clip-rule="nonzero"/>
+  </clipPath>
+  <g clip-path="url(#top_right_ornament_clip)">
+    <path fill="#ffffff" d="M760 10 L950 10 L950 200" fill-rule="evenodd"/>
+    <path fill="#ffffff" d="M790 40 L920 40 L920 170" fill-rule="evenodd"/>
+    <path fill="#ffffff" d="M820 70 L890 70 L890 140" fill-rule="evenodd"/>
+  </g>
+</svg>

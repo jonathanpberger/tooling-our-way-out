@@ -1,0 +1,9 @@
+<svg version="1.1" viewBox="0.0 0.0 960.0 540.0" fill="none" stroke="none" stroke-linecap="square" stroke-miterlimit="10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="bottom_right_ornament_clip">
+    <path d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z" clip-rule="nonzero"/>
+  </clipPath>
+  <g clip-path="url(#bottom_right_ornament_clip)">
+    <path fill="#ffffff" d="M860 440 L860 530 L770 530" fill-rule="evenodd"/>
+    <path fill="#ffffff" d="M890 470 L890 530 L830 530" fill-rule="evenodd"/>
+  </g>
+</svg>

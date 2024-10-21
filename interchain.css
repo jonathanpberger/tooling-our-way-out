@@ -1,0 +1,41 @@
+/* @theme interchain */
+@import url('https://fonts.googleapis.com/css2?family=Neue+Haas+Unica:wght@400&display=swap');
+
+@import 'default';
+
+@font-face {
+  font-family: 'ABCDiatype';
+  src: url('./assets/fonts/ABC_Diatype_Full_Web/ABCDiatype-Regular.woff2') format('woff2'),
+       url('./assets/fonts/ABC_Diatype_Full_Web/ABCDiatype-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABCDiatype';
+  src: url('./assets/fonts/ABC_Diatype_Full_Web/ABCDiatype-Bold.woff2') format('woff2'),
+       url('./assets/fonts/ABC_Diatype_Full_Web/ABCDiatype-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ABCDiatype';
+  src: url('./assets/fonts/ABC_Diatype_Full_Web/ABCDiatype-RegularItalic.woff2') format('woff2'),
+       url('./assets/fonts/ABC_Diatype_Full_Web/ABCDiatype-RegularItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+section {
+  font-family: 'ABCDiatype', monospace, sans-serif;
+  background-color: #efebe2;
+}
+
+section.invert {
+  font-family: 'ABCDiatype', monospace, sans-serif;
+  color: #efebe2;
+  background-color: #000;
+}
+
+
